@@ -8,3 +8,10 @@ How it works:-
 
 
 ![Breaking-Bad-Quotes-min](https://github.com/nikhil-poojary/api-calls/assets/39295234/538875cb-6321-4c5d-b046-b8b2306f4c18)
+
+This quote site is inspired by the renowned television programme Breaking Bad.
+It makes API requests and retrieves data using Ajax.
+With each click, it shows a different quote.
+
+Did this project to learn about APIs and how to obtain data from them and utilise it to benefit the user. 
+
